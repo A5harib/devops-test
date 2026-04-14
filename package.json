@@ -1,0 +1,23 @@
+{
+  "name": "devops-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A5harib/devops-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/A5harib/devops-test/issues"
+  },
+  "homepage": "https://github.com/A5harib/devops-test#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
